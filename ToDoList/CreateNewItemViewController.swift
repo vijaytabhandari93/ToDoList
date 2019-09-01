@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CreateNewItemViewController.swift
 //  ToDoList
 //
 //  Created by Raghav Vij on 01/09/19.
@@ -8,13 +8,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CreateNewItemViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
 
-
 }
-
